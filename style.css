@@ -4,4 +4,17 @@ body {
 } 
 .header {
     margin-top: 10px;
+    width: 50%;
+    height: 20vw;
+    background-color: blue;
+}
+.main {
+    width: 80vw;
+    height: 40%;
+    background-color: blueviolet;
+}
+.footer {
+    width: 80%;
+    height: 20%;
+    background-color: brown;
 }
